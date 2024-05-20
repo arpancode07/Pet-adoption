@@ -1,2 +1,2 @@
 # Pet-adoption
-Website for Pet Adoption
+It's a basic Website for Pet Adoption
